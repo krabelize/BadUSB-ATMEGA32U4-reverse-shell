@@ -1,7 +1,5 @@
 # BadUSB ATMEGA32U4 Reverse Shell
-BadUSB ATMEGA32U4 Staging Payload in PowerShell for Windows 10
-
-[Read this article for more information.](https://cryptsus.com/blog/cheap-badusb-rubber-ducky.html)
+BadUSB ATMEGA32U4 Staging Payload in PowerShell for Windows 10. [Read this article for more information.](https://cryptsus.com/blog/cheap-badusb-rubber-ducky.html)
 
 # License
 Berkeley Software Distribution (BSD)
